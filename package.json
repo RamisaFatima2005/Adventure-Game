@@ -1,6 +1,6 @@
 {
-  "name": "adventuregame",
-  "version": "1.0.0",
+  "name": "tf_adventure_game",
+  "version": "1.0.1",
   "description": "This is CLI based game",
   "main": "index.js",
   "bin": "index.js",
